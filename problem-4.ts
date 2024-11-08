@@ -1,4 +1,3 @@
-
 type Rectangle = {
     shape: "Rectangle";
     width: number;
